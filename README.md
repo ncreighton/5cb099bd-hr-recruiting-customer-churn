@@ -1,2 +1,28 @@
-# 5cb099bd-hr-recruiting-customer-churn
-Built for HR managers and talent acquisition teams who are tired of manually copying data between apps and rebuilding the same process every time.  Built for production: error handling, retry logic, and failure notifications included. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Hr &amp; Recruiti
+# HR & Recruiting Customer Churn Prediction and Re-engagement N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNi14n9z91g01de6fycZM14)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNi14n9z91g01de6fycZM14)
+
